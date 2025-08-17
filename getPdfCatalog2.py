@@ -1,7 +1,7 @@
 import PyPDF2
 
 # PDF 文件路径
-pdf_path = "/Users/aochenwen/Downloads/x86汇编语言-从实模式到保护模式-完整扫描版.pdf"
+pdf_path = "E:\流畅的python.pdf"
 
 # 打开 PDF 文件
 with open(pdf_path, "rb") as f:

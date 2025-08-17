@@ -1,0 +1,713 @@
+<ul>
+                                                                                      <li class="chaper">第一章 安装1.32版k8s-可用上模块装好的k8s做本模块实验</li>
+                                                    
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_867501" title="必看-k8s不同版本做实验注意事项-必看"><span class="num fl">1-1</span><p class="fl">必看-k8s不同版本做实验注意事项-必看</p><span class="time fr">13:02</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816124" title="安装k8s前置条件：机器初始化"><span class="num fl">1-2</span><p class="fl">安装k8s前置条件：机器初始化</p><span class="time fr">44:35</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816123" title="安装containerd容器运行时"><span class="num fl">1-3</span><p class="fl">安装containerd容器运行时</p><span class="time fr">08:42</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816122" title="安装docker：做镜像用"><span class="num fl">1-4</span><p class="fl">安装docker：做镜像用</p><span class="time fr">04:23</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816121" title="安装k8s命令行工具"><span class="num fl">1-5</span><p class="fl">安装k8s命令行工具</p><span class="time fr">07:17</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816120" title="安装k8s控制节点"><span class="num fl">1-6</span><p class="fl">安装k8s控制节点</p><span class="time fr">13:07</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816119" title="安装k8s工作节点"><span class="num fl">1-7</span><p class="fl">安装k8s工作节点</p><span class="time fr">04:21</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_867502" title="安装calico网络插件并延长k8s证书100年"><span class="num fl">1-8</span><p class="fl">安装calico网络插件并延长k8s证书100年</p><span class="time fr">17:06</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_1119227" title="删除k8s工作节点"><span class="num fl">1-9</span><p class="fl">删除k8s工作节点</p><span class="time fr">01:27</span></a>
+                      </li>
+                                                                                            <li class="chaper">第二章 Prometheus+k8s+grafana构建监控告警系统</li>
+                                                    
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816192" title="Prometheus基本介绍"><span class="num fl">2-1</span><p class="fl">Prometheus基本介绍</p><span class="time fr">08:03</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816191" title="prometheus特点"><span class="num fl">2-2</span><p class="fl">prometheus特点</p><span class="time fr">14:37</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816190" title="样本"><span class="num fl">2-3</span><p class="fl">样本</p><span class="time fr">02:41</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816189" title="理论：prometheus核心组件介绍"><span class="num fl">2-4</span><p class="fl">理论：prometheus核心组件介绍</p><span class="time fr">03:55</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816188" title="理论：prometheus工作流程"><span class="num fl">2-5</span><p class="fl">理论：prometheus工作流程</p><span class="time fr">03:12</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816187" title="理论：prometheus和zabbix对比分析"><span class="num fl">2-6</span><p class="fl">理论：prometheus和zabbix对比分析</p><span class="time fr">04:33</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816186" title="理论：prometheus部署模式"><span class="num fl">2-7</span><p class="fl">理论：prometheus部署模式</p><span class="time fr">03:31</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816185" title="理论：数据类型-Counter和Gauge"><span class="num fl">2-8</span><p class="fl">理论：数据类型-Counter和Gauge</p><span class="time fr">02:12</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_876382" title="理论：数据类型histogram"><span class="num fl">2-9</span><p class="fl">理论：数据类型histogram</p><span class="time fr">09:50</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_1117561" title="理论：数据类型-summary"><span class="num fl">2-10</span><p class="fl">理论：数据类型-summary</p><span class="time fr">03:26</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_1117560" title="理论：prometheus可以监控哪些服务"><span class="num fl">2-11</span><p class="fl">理论：prometheus可以监控哪些服务</p><span class="time fr">03:20</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_1117559" title="理论：prometheus监控k8s说明"><span class="num fl">2-12</span><p class="fl">理论：prometheus监控k8s说明</p><span class="time fr">03:12</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_1117558" title="理论：Promql查询语言-选择器"><span class="num fl">2-13</span><p class="fl">理论：Promql查询语言-选择器</p><span class="time fr">05:10</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_1117557" title="理论：Promql函数"><span class="num fl">2-14</span><p class="fl">理论：Promql函数</p><span class="time fr">03:57</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_1117556" title="实操：在k8s集群安装node-exporter"><span class="num fl">2-15</span><p class="fl">实操：在k8s集群安装node-exporter</p><span class="time fr">24:19</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_1117555" title="-实操：prometheus配置解析-抓取数据间隔"><span class="num fl">2-16</span><p class="fl">-实操：prometheus配置解析-抓取数据间隔</p><span class="time fr">08:05</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_1117554" title="实操：基于k8s服务发现-监控物理机"><span class="num fl">2-17</span><p class="fl">实操：基于k8s服务发现-监控物理机</p><span class="time fr">07:44</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_1117553" title="实操：基于k8s服务发现-监控容器"><span class="num fl">2-18</span><p class="fl">实操：基于k8s服务发现-监控容器</p><span class="time fr">06:59</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_1117552" title="实操：基于k8s服务发现-监控apiserver服务"><span class="num fl">2-19</span><p class="fl">实操：基于k8s服务发现-监控apiserver服务</p><span class="time fr">02:46</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_1117551" title="实操：基于k8s服务发现-监控service的endpoin"><span class="num fl">2-20</span><p class="fl">实操：基于k8s服务发现-监控service的endpoin</p><span class="time fr">06:43</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_1117550" title="实操：基于k8s服务发现：监控pod资源指标"><span class="num fl">2-21</span><p class="fl">实操：基于k8s服务发现：监控pod资源指标</p><span class="time fr">05:50</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_1117549" title="实操：在k8s集群安装prometheus服务"><span class="num fl">2-22</span><p class="fl">实操：在k8s集群安装prometheus服务</p><span class="time fr">17:55</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_1117548" title="实操：prometheus热加载"><span class="num fl">2-23</span><p class="fl">实操：prometheus热加载</p><span class="time fr">05:24</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_1117547" title="实操：安装和配置Grafana可视化界面"><span class="num fl">2-24</span><p class="fl">实操：安装和配置Grafana可视化界面</p><span class="time fr">16:39</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_1117546" title="实操：Grafana可视化展示监控数据"><span class="num fl">2-25</span><p class="fl">实操：Grafana可视化展示监控数据</p><span class="time fr">09:59</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_1117545" title="实操：prometheus监控tomcat"><span class="num fl">2-26</span><p class="fl">实操：prometheus监控tomcat</p><span class="time fr">13:01</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_1117544" title="实操：prometheus监控redis"><span class="num fl">2-27</span><p class="fl">实操：prometheus监控redis</p><span class="time fr">05:22</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_1117543" title="实操：prometheus监控mysql"><span class="num fl">2-28</span><p class="fl">实操：prometheus监控mysql</p><span class="time fr">05:05</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson cur">
+                        <a href="/center/course/lesson/index?id=14872_1117542" title="实操：prometheus监控mongodb"><span class="num fl">2-29</span><p class="fl">实操：prometheus监控mongodb</p><span class="time fr">07:53</span></a>
+                      </li>
+                                                                                            <li class="chaper">第三章 二进制安装prometheus并配置alertmanager</li>
+                                                    
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816182" title="配置Alertmanager发送报警到qq邮箱"><span class="num fl">3-1</span><p class="fl">配置Alertmanager发送报警到qq邮箱</p><span class="time fr">36:54</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816181" title="配置Alertmanager发送报警到钉钉群"><span class="num fl">3-2</span><p class="fl">配置Alertmanager发送报警到钉钉群</p><span class="time fr">30:47</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816180" title="配置Alertmanager发送报警到企业微信群"><span class="num fl">3-3</span><p class="fl">配置Alertmanager发送报警到企业微信群</p><span class="time fr">18:42</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816179" title="二进制安装prometheus"><span class="num fl">3-4</span><p class="fl">二进制安装prometheus</p><span class="time fr">16:19</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816178" title="Prometheus监控mysql"><span class="num fl">3-5</span><p class="fl">Prometheus监控mysql</p><span class="time fr">11:05</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816177" title="prometheus监控nginx"><span class="num fl">3-6</span><p class="fl">prometheus监控nginx</p><span class="time fr">17:56</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816176" title="基于rpm包安装和配置grafana"><span class="num fl">3-7</span><p class="fl">基于rpm包安装和配置grafana</p><span class="time fr">03:59</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816175" title="导入监控mysql和nginx的仪表盘"><span class="num fl">3-8</span><p class="fl">导入监控mysql和nginx的仪表盘</p><span class="time fr">08:16</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_825358" title="测试cpu使用率超过10%报警"><span class="num fl">3-9</span><p class="fl">测试cpu使用率超过10%报警</p><span class="time fr">07:02</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816173" title="压测nginx网站-测试发送报警"><span class="num fl">3-10</span><p class="fl">压测nginx网站-测试发送报警</p><span class="time fr">09:46</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_1117541" title="物理机内存超过阈值报警测试"><span class="num fl">3-11</span><p class="fl">物理机内存超过阈值报警测试</p><span class="time fr">05:06</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_1117540" title="Prometheus监控外部k8s集群"><span class="num fl">3-12</span><p class="fl">Prometheus监控外部k8s集群</p><span class="time fr">12:29</span></a>
+                      </li>
+                                                                                            <li class="chaper">第四章 基于K8S构建EFK+logstash+kafka日志平台</li>
+                                                    
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816172" title="日志对于排查线上故障的的重要性"><span class="num fl">4-1</span><p class="fl">日志对于排查线上故障的的重要性</p><span class="time fr">14:26</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816166" title="EFK组件详细介绍"><span class="num fl">4-2</span><p class="fl">EFK组件详细介绍</p><span class="time fr">46:01</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816165" title="安装nfs-provisioner供应商"><span class="num fl">4-3</span><p class="fl">安装nfs-provisioner供应商</p><span class="time fr">19:15</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816164" title="【小于等于】k8s1.24版本-安装es服务"><span class="num fl">4-4</span><p class="fl">【小于等于】k8s1.24版本-安装es服务</p><span class="time fr">13:11</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816163" title="【小于等于】k8s1.24版本-安装kibana服务"><span class="num fl">4-5</span><p class="fl">【小于等于】k8s1.24版本-安装kibana服务</p><span class="time fr">06:32</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816162" title="【小于等于】k8s1.24版本-安装fluentd服务"><span class="num fl">4-6</span><p class="fl">【小于等于】k8s1.24版本-安装fluentd服务</p><span class="time fr">16:11</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816161" title="kibana可视化展示查询k8s容器日志"><span class="num fl">4-7</span><p class="fl">kibana可视化展示查询k8s容器日志</p><span class="time fr">04:53</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816160" title="测试efk收集生产环境业务pod日志"><span class="num fl">4-8</span><p class="fl">测试efk收集生产环境业务pod日志</p><span class="time fr">07:40</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816159" title="基于EFK+logstash+kafka构建高吞吐量的日志平"><span class="num fl">4-9</span><p class="fl">基于EFK+logstash+kafka构建高吞吐量的日志平</p><span class="time fr">08:24</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_825356" title="【小于等于】k8s1.24版本-安装新版EFK日志收集平台"><span class="num fl">4-10</span><p class="fl">【小于等于】k8s1.24版本-安装新版EFK日志收集平台</p><span class="time fr">31:28</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_961021" title="【大于等于】k8s1.24版本-安装efk日志收集平台"><span class="num fl">4-11</span><p class="fl">【大于等于】k8s1.24版本-安装efk日志收集平台</p><span class="time fr">11:03</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_1117539" title="基于rpm包安装和配置es和kibana"><span class="num fl">4-12</span><p class="fl">基于rpm包安装和配置es和kibana</p><span class="time fr">23:21</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_1117538" title="基于rpm包安装和配置filebeat"><span class="num fl">4-13</span><p class="fl">基于rpm包安装和配置filebeat</p><span class="time fr">02:24</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_1117537" title="kibana可视化展示审计日志"><span class="num fl">4-14</span><p class="fl">kibana可视化展示审计日志</p><span class="time fr">36:07</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_1117536" title="kibana可视化展示系统日志"><span class="num fl">4-15</span><p class="fl">kibana可视化展示系统日志</p><span class="time fr">01:32</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_1117535" title="收集Nginx日志并配置Kibana仪表盘展示数据"><span class="num fl">4-16</span><p class="fl">收集Nginx日志并配置Kibana仪表盘展示数据</p><span class="time fr">08:04</span></a>
+                      </li>
+                                                                                            <li class="chaper">第五章 基于云原生分布式存储Ceph实现K8S数据持久化</li>
+                                                    
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816151" title="分布式存储ceph基本介绍"><span class="num fl">5-1</span><p class="fl">分布式存储ceph基本介绍</p><span class="time fr">12:18</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816158" title="准备安装ceph高可用集群的实验环境"><span class="num fl">5-2</span><p class="fl">准备安装ceph高可用集群的实验环境</p><span class="time fr">16:21</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816157" title="安装ceph 监控服务monitor"><span class="num fl">5-3</span><p class="fl">安装ceph 监控服务monitor</p><span class="time fr">06:42</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816156" title="安装ceph 存储服务osd"><span class="num fl">5-4</span><p class="fl">安装ceph 存储服务osd</p><span class="time fr">02:32</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816155" title="配置文件系统存储cephfs"><span class="num fl">5-5</span><p class="fl">配置文件系统存储cephfs</p><span class="time fr">03:44</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816154" title="K8S对接ceph rbd实现数据持久化"><span class="num fl">5-6</span><p class="fl">K8S对接ceph rbd实现数据持久化</p><span class="time fr">15:59</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_829389" title="基于Ceph rbd生成pv"><span class="num fl">5-7</span><p class="fl">基于Ceph rbd生成pv</p><span class="time fr">20:43</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816153" title="基于存储类Storageclass动态从Ceph划分PV"><span class="num fl">5-8</span><p class="fl">基于存储类Storageclass动态从Ceph划分PV</p><span class="time fr">15:36</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816152" title="K8S对接cephfs实现数据持久化"><span class="num fl">5-9</span><p class="fl">K8S对接cephfs实现数据持久化</p><span class="time fr">10:26</span></a>
+                      </li>
+                                                                                            <li class="chaper">第六章 基于Jenkins+K8S构建DevOps自动化运维管理平台</li>
+                                                    
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_1117059" title="jenkins版本说明-安装2.502版本"><span class="num fl">6-1</span><p class="fl">jenkins版本说明-安装2.502版本</p><span class="time fr">02:00</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816150" title="一站式DevOps解决方案基本介绍"><span class="num fl">6-2</span><p class="fl">一站式DevOps解决方案基本介绍</p><span class="time fr">26:23</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816149" title="k8S在DevOps中的核心作用"><span class="num fl">6-3</span><p class="fl">k8S在DevOps中的核心作用</p><span class="time fr">29:48</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_958422" title="安装推荐插件报错-解决办法"><span class="num fl">6-4</span><p class="fl">安装推荐插件报错-解决办法</p><span class="time fr">05:54</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_958421" title="安装jenkins2.426.3版本"><span class="num fl">6-5</span><p class="fl">安装jenkins2.426.3版本</p><span class="time fr">17:43</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816148" title="在线安装jenkins推荐插件"><span class="num fl">6-6</span><p class="fl">在线安装jenkins推荐插件</p><span class="time fr">25:46</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816147" title="配置jenkins从节点"><span class="num fl">6-7</span><p class="fl">配置jenkins从节点</p><span class="time fr">13:42</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816146" title="配置harbor凭据"><span class="num fl">6-8</span><p class="fl">配置harbor凭据</p><span class="time fr">03:11</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816145" title="编写pipeline流水线"><span class="num fl">6-9</span><p class="fl">编写pipeline流水线</p><span class="time fr">36:26</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816144" title="代码自动发布到开发、测试、生产环境"><span class="num fl">6-10</span><p class="fl">代码自动发布到开发、测试、生产环境</p><span class="time fr">09:42</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_1092799" title="bluecoean使用"><span class="num fl">6-11</span><p class="fl">bluecoean使用</p><span class="time fr">08:53</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816143" title="Jenkins Pipeline回滚业务到指定版本"><span class="num fl">6-12</span><p class="fl">Jenkins Pipeline回滚业务到指定版本</p><span class="time fr">12:35</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816142" title="Jenkins pipeline基本介绍"><span class="num fl">6-13</span><p class="fl">Jenkins pipeline基本介绍</p><span class="time fr">14:11</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816141" title="Jenkins Pipeline声明式语法实战讲解"><span class="num fl">6-14</span><p class="fl">Jenkins Pipeline声明式语法实战讲解</p><span class="time fr">33:45</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816140" title="Pipeline声明式语法与脚本式语法适用场景分析"><span class="num fl">6-15</span><p class="fl">Pipeline声明式语法与脚本式语法适用场景分析</p><span class="time fr">03:35</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816138" title="安装代码扫描工具sonarqube"><span class="num fl">6-16</span><p class="fl">安装代码扫描工具sonarqube</p><span class="time fr">10:11</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816097" title="私服nexus配置和使用"><span class="num fl">6-17</span><p class="fl">私服nexus配置和使用</p><span class="time fr">04:49</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816096" title="代码托管工具gitlab安装和配置"><span class="num fl">6-18</span><p class="fl">代码托管工具gitlab安装和配置</p><span class="time fr">07:06</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816095" title="基于Jenkins自动部署SpringCloud项目"><span class="num fl">6-19</span><p class="fl">基于Jenkins自动部署SpringCloud项目</p><span class="time fr">15:28</span></a>
+                      </li>
+                                                                                            <li class="chaper">第七章 最新一代微服务网格Istio入门到企业实战</li>
+                                                    
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816137" title="Istio基本介绍和核心特性深入讲解"><span class="num fl">7-1</span><p class="fl">Istio基本介绍和核心特性深入讲解</p><span class="time fr">28:56</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816136" title="Istio核心组件-pilot"><span class="num fl">7-2</span><p class="fl">Istio核心组件-pilot</p><span class="time fr">10:22</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816135" title="istio核心组件envoy代理容器"><span class="num fl">7-3</span><p class="fl">istio核心组件envoy代理容器</p><span class="time fr">04:30</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816134" title="istio核心组件-Citadel和Galley"><span class="num fl">7-4</span><p class="fl">istio核心组件-Citadel和Galley</p><span class="time fr">03:03</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816133" title="istio入口网关和出口网关"><span class="num fl">7-5</span><p class="fl">istio入口网关和出口网关</p><span class="time fr">04:37</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816132" title="k8s集群安装最新版istio"><span class="num fl">7-6</span><p class="fl">k8s集群安装最新版istio</p><span class="time fr">19:32</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816131" title="结合不同实战场景安装istio"><span class="num fl">7-7</span><p class="fl">结合不同实战场景安装istio</p><span class="time fr">04:33</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816130" title="在线书店bookinfo基本介绍"><span class="num fl">7-8</span><p class="fl">在线书店bookinfo基本介绍</p><span class="time fr">05:18</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816129" title="在k8s集群部署在线书店-启动istio自动注入功能"><span class="num fl">7-9</span><p class="fl">在k8s集群部署在线书店-启动istio自动注入功能</p><span class="time fr">30:46</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816128" title="istio各个组件相互工作流程"><span class="num fl">7-10</span><p class="fl">istio各个组件相互工作流程</p><span class="time fr">07:44</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816127" title="k8s结合istio实现按流量百分比代理"><span class="num fl">7-11</span><p class="fl">k8s结合istio实现按流量百分比代理</p><span class="time fr">24:42</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_928946" title="k8s结合Istio实现流量治理-熔断"><span class="num fl">7-12</span><p class="fl">k8s结合Istio实现流量治理-熔断</p><span class="time fr">25:03</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_928939" title="熔断参数最佳实践"><span class="num fl">7-13</span><p class="fl">熔断参数最佳实践</p><span class="time fr">07:18</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_928945" title="根据实际场景测试-得出最优参数"><span class="num fl">7-14</span><p class="fl">根据实际场景测试-得出最优参数</p><span class="time fr">04:29</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_928944" title="k8s结合istio实现流量治理-超时"><span class="num fl">7-15</span><p class="fl">k8s结合istio实现流量治理-超时</p><span class="time fr">20:56</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_928943" title="k8s结合istio实现流量治理-重试"><span class="num fl">7-16</span><p class="fl">k8s结合istio实现流量治理-重试</p><span class="time fr">14:23</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_928942" title="关闭istio自动注入功能"><span class="num fl">7-17</span><p class="fl">关闭istio自动注入功能</p><span class="time fr">02:29</span></a>
+                      </li>
+                                                                                            <li class="chaper">第八章 简化K8S应用部署工具-Helm入门到企业实战</li>
+                                                    
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816110" title="Helm基本介绍"><span class="num fl">8-1</span><p class="fl">Helm基本介绍</p><span class="time fr">06:37</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816109" title="Helmv3版本架构"><span class="num fl">8-2</span><p class="fl">Helmv3版本架构</p><span class="time fr">02:50</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816108" title="helm新版本安装"><span class="num fl">8-3</span><p class="fl">helm新版本安装</p><span class="time fr">06:03</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816107" title="添加Helm仓库地址"><span class="num fl">8-4</span><p class="fl">添加Helm仓库地址</p><span class="time fr">06:42</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816106" title="搜索和下载Chart图表"><span class="num fl">8-5</span><p class="fl">搜索和下载Chart图表</p><span class="time fr">09:33</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816105" title="helm部署memcached服务"><span class="num fl">8-6</span><p class="fl">helm部署memcached服务</p><span class="time fr">15:43</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816104" title="自定义Chart模板-Chart.yaml文件介绍"><span class="num fl">8-7</span><p class="fl">自定义Chart模板-Chart.yaml文件介绍</p><span class="time fr">06:21</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816103" title="__helpers.tpl文件解释说明-myapp.full"><span class="num fl">8-8</span><p class="fl">__helpers.tpl文件解释说明-myapp.full</p><span class="time fr">07:41</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816102" title="__helpers.tpl文件解释说明-myapp.labe"><span class="num fl">8-9</span><p class="fl">__helpers.tpl文件解释说明-myapp.labe</p><span class="time fr">07:41</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816101" title="helm部署k8s资源Chart实现方式"><span class="num fl">8-10</span><p class="fl">helm部署k8s资源Chart实现方式</p><span class="time fr">32:29</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816100" title="Helm lint检查Yaml文件语法格式"><span class="num fl">8-11</span><p class="fl">Helm lint检查Yaml文件语法格式</p><span class="time fr">02:14</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816099" title="Helm upgrade动态修改资源"><span class="num fl">8-12</span><p class="fl">Helm upgrade动态修改资源</p><span class="time fr">02:25</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816098" title="Helm rollback回滚"><span class="num fl">8-13</span><p class="fl">Helm rollback回滚</p><span class="time fr">01:51</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_939753" title="Helm package打包Chart"><span class="num fl">8-14</span><p class="fl">Helm package打包Chart</p><span class="time fr">02:34</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_939752" title="Helm官网常用命令练习"><span class="num fl">8-15</span><p class="fl">Helm官网常用命令练习</p><span class="time fr">07:35</span></a>
+                      </li>
+                                                                                            <li class="chaper">第九章 Rancher管理k8s集群</li>
+                                                    
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816118" title="Rancher基本介绍"><span class="num fl">9-1</span><p class="fl">Rancher基本介绍</p><span class="time fr">05:36</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816117" title="准备安装Rancher的实验环境"><span class="num fl">9-2</span><p class="fl">准备安装Rancher的实验环境</p><span class="time fr">14:00</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816116" title="Rancher2.6管理【小于等于】1.24版本的k8s"><span class="num fl">9-3</span><p class="fl">Rancher2.6管理【小于等于】1.24版本的k8s</p><span class="time fr">10:46</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816115" title="通过Rancher管理已经存在的k8s集群"><span class="num fl">9-4</span><p class="fl">通过Rancher管理已经存在的k8s集群</p><span class="time fr">10:05</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816114" title="通过rancher创建Deployment资源"><span class="num fl">9-5</span><p class="fl">通过rancher创建Deployment资源</p><span class="time fr">15:22</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816113" title="通过rancher创建service资源"><span class="num fl">9-6</span><p class="fl">通过rancher创建service资源</p><span class="time fr">07:37</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816112" title="安装Ingress-controller七层代理"><span class="num fl">9-7</span><p class="fl">安装Ingress-controller七层代理</p><span class="time fr">03:32</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_816111" title="通过Rancher创建Ingress资源"><span class="num fl">9-8</span><p class="fl">通过Rancher创建Ingress资源</p><span class="time fr">09:01</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_928941" title="安装和配置rancher2.7最新版"><span class="num fl">9-9</span><p class="fl">安装和配置rancher2.7最新版</p><span class="time fr">18:28</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_928940" title="rancher2.7管理【大于等于】1.24版本k8s集群"><span class="num fl">9-10</span><p class="fl">rancher2.7管理【大于等于】1.24版本k8s集群</p><span class="time fr">11:55</span></a>
+                      </li>
+                                                                                            <li class="chaper">第十章 将Go代码基于二进制、docker、k8s部署完整流程</li>
+                                                    
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_834606" title="理论：新项目上线完整流程"><span class="num fl">10-1</span><p class="fl">理论：新项目上线完整流程</p><span class="time fr">12:06</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_834605" title="实操：代码上线实战演练"><span class="num fl">10-2</span><p class="fl">实操：代码上线实战演练</p><span class="time fr">28:13</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_834604" title="把代码基于dockerfile文件做成镜像"><span class="num fl">10-3</span><p class="fl">把代码基于dockerfile文件做成镜像</p><span class="time fr">10:27</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_834603" title="把镜像传到harbor私有镜像仓库里"><span class="num fl">10-4</span><p class="fl">把镜像传到harbor私有镜像仓库里</p><span class="time fr">04:17</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_834602" title="docker运行游戏代码"><span class="num fl">10-5</span><p class="fl">docker运行游戏代码</p><span class="time fr">05:05</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_834601" title="把游戏项目基于k8s运行"><span class="num fl">10-6</span><p class="fl">把游戏项目基于k8s运行</p><span class="time fr">14:33</span></a>
+                      </li>
+                                                                                            <li class="chaper">第十一章 二进制安装生产环境K8S多master节点高可用集群</li>
+                                                    
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_834288" title="机器规划"><span class="num fl">11-1</span><p class="fl">机器规划</p><span class="time fr">15:37</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_834287" title="linux机器初始化"><span class="num fl">11-2</span><p class="fl">linux机器初始化</p><span class="time fr">26:39</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_834286" title="安装和配置containerd容器运行时"><span class="num fl">11-3</span><p class="fl">安装和配置containerd容器运行时</p><span class="time fr">15:29</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_834285" title="安装和配置etcd高可用集群"><span class="num fl">11-4</span><p class="fl">安装和配置etcd高可用集群</p><span class="time fr">45:59</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_834284" title="安装和配置apiserver组件"><span class="num fl">11-5</span><p class="fl">安装和配置apiserver组件</p><span class="time fr">36:25</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_834283" title="安装和配置kubectl组件"><span class="num fl">11-6</span><p class="fl">安装和配置kubectl组件</p><span class="time fr">20:45</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_834282" title="安装和配置controller-manager组件"><span class="num fl">11-7</span><p class="fl">安装和配置controller-manager组件</p><span class="time fr">10:43</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_834281" title="安装和配置scheduler组件"><span class="num fl">11-8</span><p class="fl">安装和配置scheduler组件</p><span class="time fr">07:01</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_834280" title="准备安装组件需要的镜像-必看"><span class="num fl">11-9</span><p class="fl">准备安装组件需要的镜像-必看</p><span class="time fr">01:31</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_834279" title="安装K8S集群网络插件Calico"><span class="num fl">11-10</span><p class="fl">安装K8S集群网络插件Calico</p><span class="time fr">16:01</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_834278" title="安装和配置kube-proxy组件"><span class="num fl">11-11</span><p class="fl">安装和配置kube-proxy组件</p><span class="time fr">06:34</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_834277" title="安装和配置calico网络插件"><span class="num fl">11-12</span><p class="fl">安装和配置calico网络插件</p><span class="time fr">03:28</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_834276" title="安装和配置coredns服务"><span class="num fl">11-13</span><p class="fl">安装和配置coredns服务</p><span class="time fr">02:03</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_1092798" title="测试k8s网络和coredns"><span class="num fl">11-14</span><p class="fl">测试k8s网络和coredns</p><span class="time fr">04:10</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_1092797" title="基于keepalived+nginx实现apiserver高"><span class="num fl">11-15</span><p class="fl">基于keepalived+nginx实现apiserver高</p><span class="time fr">26:38</span></a>
+                      </li>
+                                                                                            <li class="chaper">第十二章 阿里云托管k8s集群ACK创建和使用</li>
+                                                    
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_846644" title="阿里云托管k8s集群ACK创建和使用"><span class="num fl">12-1</span><p class="fl">阿里云托管k8s集群ACK创建和使用</p><span class="time fr">47:24</span></a>
+                      </li>
+                                                                                            <li class="chaper">第十三章 华为云托管k8s集群CCE创建和使用</li>
+                                                    
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_846643" title="华为云托管k8s集群CCE创建和使用"><span class="num fl">13-1</span><p class="fl">华为云托管k8s集群CCE创建和使用</p><span class="time fr">50:32</span></a>
+                      </li>
+                                                                                            <li class="chaper">第十四章 kubeadm安装多master节点k8s集群-官网新版</li>
+                                                    
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_857095" title="对安装k8s的机器进行初始化"><span class="num fl">14-1</span><p class="fl">对安装k8s的机器进行初始化</p><span class="time fr">01:04:22</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_857094" title="安装containerd容器运行时"><span class="num fl">14-2</span><p class="fl">安装containerd容器运行时</p><span class="time fr">08:39</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_857093" title="安装docker-做镜像用"><span class="num fl">14-3</span><p class="fl">安装docker-做镜像用</p><span class="time fr">08:23</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_857092" title="安装k8s命令行工具"><span class="num fl">14-4</span><p class="fl">安装k8s命令行工具</p><span class="time fr">06:18</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_857091" title="keepalived和nginx基本介绍"><span class="num fl">14-5</span><p class="fl">keepalived和nginx基本介绍</p><span class="time fr">03:35</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_857090" title="keepalived+nginx对apiserver做高可用"><span class="num fl">14-6</span><p class="fl">keepalived+nginx对apiserver做高可用</p><span class="time fr">29:54</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_857089" title="安装第一个控制节点"><span class="num fl">14-7</span><p class="fl">安装第一个控制节点</p><span class="time fr">17:23</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_857082" title="扩容k8s集群-变成3个控制节点"><span class="num fl">14-8</span><p class="fl">扩容k8s集群-变成3个控制节点</p><span class="time fr">06:41</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_857088" title="安装k8s工作节点"><span class="num fl">14-9</span><p class="fl">安装k8s工作节点</p><span class="time fr">03:12</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_857085" title="安装k8s网络插件calico"><span class="num fl">14-10</span><p class="fl">安装k8s网络插件calico</p><span class="time fr">05:19</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_857087" title="延长k8s核心服务证书有效期"><span class="num fl">14-11</span><p class="fl">延长k8s核心服务证书有效期</p><span class="time fr">05:32</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_857086" title="检测etcd集群健康状态"><span class="num fl">14-12</span><p class="fl">检测etcd集群健康状态</p><span class="time fr">09:09</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_1124034" title="etcd数据备份和还原"><span class="num fl">14-13</span><p class="fl">etcd数据备份和还原</p><span class="time fr">14:03</span></a>
+                      </li>
+                                                                        
+                                          <li class="lesson ">
+                        <a href="/center/course/lesson/index?id=14872_1124033" title="模拟k8s故障并快速修复"><span class="num fl">14-14</span><p class="fl">模拟k8s故障并快速修复</p><span class="time fr">16:05</span></a>
+                      </li>
+                                                                        
+                    
+                      <li class="lesson exam ">
+                        <a href="/center/course/lesson/index?id=14872_817335" title="基于K8S的世界500强企业真实项目汇总"><span class="num fl">14-15</span><i class="icon"></i><p class="fl">基于K8S的世界500强企业真实项目汇总</p><span class="look fr">查看练习</span></a>
+                      </li>
+                                                                                  </ul>

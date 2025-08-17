@@ -19,7 +19,7 @@ import PyPDF2
 # /Users/aochenwen/Documents/algos_ dstructure/算法的书籍/算法图解.pdf
 
 # 打开 PDF 文件
-with open('/Users/aochenwen/Documents/algos_ dstructure/算法的书籍/算法图解.pdf', 'rb') as f:
+with open('E:\流畅的python.pdf', 'rb') as f:
     reader = PyPDF2.PdfFileReader(f)
     # 获取目录
     outlines = reader.getOutlines()
